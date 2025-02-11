@@ -37,12 +37,6 @@ jupyter notebook
 ```
 Open `fake_job_detection.ipynb` and run all cells.
 
-## 📌 Model Performance
-| Model               | Accuracy | Precision | Recall | F1-score |
-|--------------------|----------|----------|--------|---------|
-| Logistic Regression | XX%      | XX%      | XX%    | XX%     |
-| Random Forest      | XX%      | XX%      | XX%    | XX%     |
-| SVM                | XX%      | XX%      | XX%    | XX%     |
 
 ## 🖼️ Sample Output
 _
